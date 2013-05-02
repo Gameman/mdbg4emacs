@@ -32,3 +32,5 @@ set PATH=%PATH%;"%VersionDir%";"%FrameworkSDKDir%\bin"
 @set FrameworkDir=
 @set VersionDir=
 @set FrameworkDir=
+
+pause
